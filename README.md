@@ -1,3 +1,5 @@
+# DEPRECATED - FORK THIS REPOSITORY - WILL BE ARCHIVED ON MAY 30TH
+
 # A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
